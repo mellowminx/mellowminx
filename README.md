@@ -1,4 +1,4 @@
-Indie solo [gamedev](https://twitter.com/mellow_minx) making ✨ [tiny cozy games](https://mellowminx.itch.io) ✨ since 2023
+Indie solo [gamedev](https://mellowminx.com) making ✨ [tiny cozy games](https://mellowminx.itch.io) ✨ since 2023
 
 Godot user
 
